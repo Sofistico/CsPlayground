@@ -1,0 +1,14 @@
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\bin\Debug\net7.0\CsPlayground.exe
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\bin\Debug\net7.0\CsPlayground.deps.json
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\bin\Debug\net7.0\CsPlayground.runtimeconfig.json
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\bin\Debug\net7.0\CsPlayground.dll
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\bin\Debug\net7.0\CsPlayground.pdb
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.AssemblyInfoInputs.cache
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.AssemblyInfo.cs
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.csproj.CoreCompileInputs.cache
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.dll
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\refint\CsPlayground.dll
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.pdb
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\CsPlayground.genruntimeconfig.cache
+c:\Users\joaorodrigues\source\repos\CsPlayground\CsPlayground\obj\Debug\net7.0\ref\CsPlayground.dll
