@@ -1,10 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 string[] strs = new string[]{
-    "eat",
-    "ate"
-};
+"eat","tea","tan","ate","nat","bat"};
 var expectedOutput = new List<IList<string>>{
-new List<string>() {"eat, ate"}
+new List<string>(){"bat"},new List<string>(){"nat","tan"},new List<string>(){"ate","eat","tea"}
 };
 
 var res = GroupAnagram.Group(strs);

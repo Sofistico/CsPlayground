@@ -6,7 +6,7 @@ public static class GroupAnagram{
         {
             var chars = strs[i].ToCharArray();
             Array.Sort(chars);
-            var str = chars.ToString();
+            var str = new string(chars);
             if(!map.ContainsKey(str)){
                 map.Add(str, new List<string>() {strs[i]} );
             }
@@ -15,7 +15,7 @@ public static class GroupAnagram{
             }
         }
         foreach(var res in map){
-            result.Add(new List<string>(res.Value));
+            result.Add(res.Value);
         }
 
         return result;
