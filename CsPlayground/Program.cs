@@ -3,8 +3,8 @@ string[] strs = new string[]{
     "eat",
     "ate"
 };
-var expectedOutput = new List<List<string>>{
-new() {"eat, ate"}
+var expectedOutput = new List<IList<string>>{
+new List<string>() {"eat, ate"}
 };
 
 var res = GroupAnagram.Group(strs);
