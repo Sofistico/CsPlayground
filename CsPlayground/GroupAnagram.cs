@@ -15,7 +15,7 @@ public static class GroupAnagram{
             }
         }
         foreach(var res in map){
-            result.Add(res.Value);
+            result.Add(new List<string>(res.Value));
         }
 
         return result;
