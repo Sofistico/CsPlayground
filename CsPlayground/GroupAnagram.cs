@@ -4,9 +4,9 @@ public static class GroupAnagram{
         Dictionary<string, List<string>> map = new();
         for (int i = 0; i < strs.Length; i++)
         {
-            var chars = strs[i].ToCharArray();
-            Array.Sort(chars);
-            var str = new string(chars);
+            var chars = new Span<char>(strs[i].ToCharArray());
+            chars.Sort();
+            var str = chars.ToString();
             if(!map.ContainsKey(str)){
                 map.Add(str, new List<string>() {strs[i]} );
             }
